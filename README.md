@@ -1,7 +1,7 @@
 # LSTM Analysis for Stock Price Prediction
 
 ## LSTM algorithm
-![Stock Price Prediction](/path/to/WhatsApp Image 2024-04-01 at 08.38.06.jpeg)
+![Stock Price Prediction](https://github.com/SarbajitNeogi/LSTM_analysis_min/blob/main/WhatsApp%20Image%202024-04-01%20at%2008.38.06.jpeg)
 
 ## Overview
 
